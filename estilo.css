@@ -3,3 +3,4 @@ body { background-color: #121212; }
 body { color: #ffffff; }
 nav { display: flex; gap: 8px; }
 /* tema escuro padrao */
+/* Fix: ajuste de margem do menu */ nav { margin: 0; }
