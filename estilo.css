@@ -6,3 +6,4 @@ nav { display: flex; gap: 8px; }
 /* Fix: ajuste de margem do menu */ nav { margin: 0; }
 /* Hotfix urgente: corrige overflow */ body { overflow-x: hidden; }
 body.dark { background-color: #000; }
+body.dark nav { color: #fff; }
